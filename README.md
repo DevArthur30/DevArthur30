@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevArthur30
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning Sistema de informação com Analise e Desenvolvimento de Sistemas
-- 📫 How to reach me devarthur30@hotmail.com
+- 📫 How to reach me dev.arthur30@hotmail.com
 
 <!---
 DevArthur30/DevArthur30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
